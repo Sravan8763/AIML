@@ -1,7 +1,5 @@
 1) Hello this is my learning to GIT.
-2) My name is Sravan Kumar
-3) Hi everyone
-4)
-5) hi
-9
+2) There are different git commands.
+3) We must first add the file and then commit it.
+4) Aftrer commiting the file we push it to github.
 
